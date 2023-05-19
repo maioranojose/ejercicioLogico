@@ -1,2 +1,2 @@
-# ejercicioLogico
-Ejercicios Lógicos
+# EjercicioLogico
+##Ejercicios Lógicos
